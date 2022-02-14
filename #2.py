@@ -1,5 +1,5 @@
-# Напишіть програму, що виводить на екран транспоновану
-# матрицю 3*3 (початкова матриця задається користувачем)
+# Write a program that displays the transposed
+# matrix 3 * 3 (initial matrix is set by the user)
 # ------------------------------------------------------------------
 rows = int(input("Enter the Number of rows : "))
 column = int(input("Enter the Number of Columns: "))
